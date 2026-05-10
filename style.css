@@ -24,6 +24,9 @@
  .text-justify {
   text-align: justify !important;
 }
+section{
+    overflow: hidden;
+}
 .hero-v2 {
     /* Updated to a reliable high-quality detailing image */
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), 
